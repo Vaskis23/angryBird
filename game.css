@@ -1,0 +1,18 @@
+body {
+    background-color: #123;
+}
+#map {
+    border: 5px solid #666;
+    cursor: url(Iconsmind-Outline-Target.48.png), auto;
+    background: #bbb;
+}
+#bird {
+    width: 48px;
+    height: 48px;
+    background-image: url(Femfoyou-Angry-Birds-Angry-bird.48.png);
+    border: 1px solid transparent;
+}
+#result {
+    color: white;
+    font-size: 30px;
+}
